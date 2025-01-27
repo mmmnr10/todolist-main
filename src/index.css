@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: #ffffffde;
+  color: #ffffff38;
   background-color: #444242;
 }
 
@@ -36,7 +36,7 @@ body {
 
 button {
   padding: 8px;
-  background-color: #4caf50;
+  background-color: #4c8eaf;
   color: white;
   border: none;
   border-radius: 4px;
@@ -44,7 +44,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #4588a0;
 }
 
 .todo-item {
@@ -57,7 +57,7 @@ button:hover {
 
 .todo-item button {
   margin-left: auto;
-  background-color: #5c5a5a;
+  background-color: #00000000;
 }
 
 .todo-item button:hover {
